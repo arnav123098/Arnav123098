@@ -1,4 +1,3 @@
-<img src="C:\Users\abc\Downloads\unnamed.gif">
 - 👋 Hi, I’m @Arnav123098
 - 👀 I’m interested in business, coding, ui design...
 - 🌱 I’m currently learning html and css...<br>
