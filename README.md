@@ -1,8 +1,8 @@
-About Me
-- 👋 Hi, I’m @Arnav123098
-- 👀 I’m interested in reading, coding, ui design...
-- 🌱 I’m currently learning html and css...<br>
-- 🔥 Reach me out @_iamarnav._...
+<h2>-About Me-</h2>
+<h4>- 👋 Hi, I’m<a href="https://github.com/Arnav123098">@Arnav123098</a>.<br>
+- 👀 I’m interested in reading, coding, ui design.<br>
+  - 🌱 I’m currently learning Web Development.<br>
+  - 🔥 Reach me out <a href="https://www.instagram.com/_iamarnav._/">@_iamarnav._</a></h4>
 ----Thank You----
 
 <!---
