@@ -1,6 +1,8 @@
+About Me
 - 👋 Hi, I’m @Arnav123098
-- 👀 I’m interested in business, coding, ui design...
+- 👀 I’m interested in reading, coding, ui design...
 - 🌱 I’m currently learning html and css...<br>
+- 🔥 Reach me out @_iamarnav._...
 ----Thank You----
 
 <!---
