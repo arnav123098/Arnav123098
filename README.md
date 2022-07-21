@@ -6,7 +6,7 @@
 • 👋 Hi, I’m<a href="https://github.com/Arnav123098">@Arnav123098</a>.<br>
 • 👀 I’m interested in reading, coding, ui design.<br>
 • 🌱 I’m currently learning Web Development.<br>
-• 💬 Reach me out <a href="https://www.instagram.com/_iamarnav._/">@_iamarnav._</a></h4>
+• 💬 Reach me out on Instagram<a href="https://www.instagram.com/_iamarnav._/">@_iamarnav._</a></h4>
 <strong>----Thank You----</strong>
 
 <!---
