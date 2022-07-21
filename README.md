@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://smmpackage.in/wp-content/uploads/2021/07/develpoment.gif" height="200"width="400" />
+</div>
 <h2>About Me</h2>
 <h4>
 • 👋 Hi, I’m<a href="https://github.com/Arnav123098">@Arnav123098</a>.<br>
