@@ -4,9 +4,9 @@
 <h2>About Me</h2>
 <h4>
 • 👋 Hi, I’m<a href="https://github.com/Arnav123098">@Arnav123098</a>.<br>
-• 👀 I’m interested in reading, coding, ui design.<br>
+• 👀 I’m learning to become a Full Stack Developer.<br>
 • 🌱 I’m currently learning Web Development.<br>
-• 💬 Reach me out on Instagram<a href="https://www.instagram.com/_iamarnav._/">@_iamarnav._</a></h4>
+• 💬 Reach me out on Twitter<a href="https://www.twitter.com/_iamarnav_">@_iamarnav_</a></h4>
 <strong>----Thank You----</strong>
 
 <!---
