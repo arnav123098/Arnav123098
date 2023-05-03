@@ -1,6 +1,8 @@
 <!--Readme.md-->
 
+<div id=img>
  <img src="https://smmpackage.in/wp-content/uploads/2021/07/develpoment.gif" height="200"width="400" />
+</div>
 
 <h1 align="center">👋🏻Hello! I'm Arnav Mishra</h1>
 <h3 align="center">I'm currently learning Web Development.</h3>
