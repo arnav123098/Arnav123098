@@ -4,15 +4,16 @@
  <img src="https://smmpackage.in/wp-content/uploads/2021/07/develpoment.gif" height="200"width="400" />
 </div>
 
-<h1 align="center">👋🏻Hello! I'm Arnav Mishra</h1>
+<h1 align="center">👋🏻Hello!, I'm Arnav Mishra</h1>
 <h3 align="center">I'm currently learning Web Development.</h3>
+
+- 🌱 I’m currently learning **HTML, CSS and JavaScript**.
+- 🎯 Target: To become **Highly Skilled Full Stack Developer**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav123098&label=Profile%20views&color=0e75b6&style=flat" alt="arnav123098" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_iamarnav_" target="blank"><img src="https://img.shields.io/twitter/follow/_iamarnav_?logo=twitter&style=for-the-badge" alt="_iamarnav_" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**.
-- 🎯 Target: To become **Highly Skilled Full Stack Developer**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
