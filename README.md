@@ -7,7 +7,7 @@
 <h1 align="center">👋🏻Hello!, I'm Arnav Mishra</h1>
 <h3 align="center">I'm currently learning Web Development.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**.
+- 🌱 Languages I'm learning: **HTML, CSS and JavaScript**.
 - 🎯 Target: To become **Highly Skilled Full Stack Developer**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav123098&label=Profile%20views&color=0e75b6&style=flat" alt="arnav123098" /> </p>
