@@ -1,7 +1,7 @@
 <!--Readme.md-->
 
 <div id=img>
- <img src="https://giphy.com/gifs/javascript-gsap-codepen-l46ChKeGsmsfE3Un6" height="200"width="400" />
+ <img src="https://www.giphy.com/gifs/javascript-gsap-codepen-l46ChKeGsmsfE3Un6" height="200"width="400" />
 </div>
 
 <h1 align="center">👋🏻Hello!, I'm Arnav</h1>
