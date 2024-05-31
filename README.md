@@ -12,9 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/malevolent_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="malevolent_coder" height="30" width="40" /></a>
-<a href="https://twitter.com/_iamarnav_" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?t=st=1714821584~exp=1714825184~hmac=6f6003350644e69e3a8bf8fca3c8fbc089f84b33a4920e432e6b3122debf8368&w=1060" alt="_iamarnav_" height="35" width="40" /></a>
+<a href="https://twitter.com/__iamarnav" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?t=st=1714821584~exp=1714825184~hmac=6f6003350644e69e3a8bf8fca3c8fbc089f84b33a4920e432e6b3122debf8368&w=1060" alt="_iamarnav_" height="35" width="40" /></a>
 <a href="https://stackoverflow.com/users/21806691" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21806691" height="30" width="40" /></a>
-<a href="https://instagram.com/malevolent_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malevolent_coder" height="30" width="40" /></a>
+<a href="https://instagram.com/__iamarnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malevolent_coder" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
