@@ -1,11 +1,11 @@
-see<!--Readme.md-->
+<!--Readme.md-->
 
 <div id=img>
  <img src="https://media0.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif?cid=6c09b9521pix9v5sb4naoq04w2x6g4vb53mmjzrqior1g2e0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" height="250"width="400" />
 </div>
 
-<h1 align="center">👋🏻Hello World! I'm Arnav</h1>
-
+<h1 align="center">👋🏻Hello World!</h1>
+## I'm Arnav
 ⚡ Full-time skill aquirer <br>💻 Currently learning full-stack development 
 
 ## 🌐 Socials:
