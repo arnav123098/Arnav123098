@@ -6,7 +6,7 @@
 
 <h1 align="center">👋🏻Hello! I'm Arnav</h1>
 
-💻 I'm Currently learning full-stack development 
+💻 I'm currently learning full-stack development 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__iamarnav)
