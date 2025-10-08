@@ -1,9 +1,4 @@
 <!--Readme.md-->
-
-<div id=img>
- <img src="https://media4.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=6c09b95235d1zsm9wy5fcuoyx4ysbgfsvq5wmbehwep87hu8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" height="250"width="400" />
-</div>
-
 <h1 align="center">sup! I'm Arnav</h1>
 <h3 align="center">currently learning ml. building mostly web apps and more into language models lately.</h3>
 
