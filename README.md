@@ -1,5 +1,5 @@
 <!--Readme.md-->
-<h1 align="center">sup! I'm Arnav</h1>
+<h1 align="center">sup! i'm Arnav</h1>
 <h3 align="center">currently learning ml. building mostly web apps and more into language models lately.</h3>
 
 ## my e𝕏 btw:
