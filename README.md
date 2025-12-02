@@ -1,5 +1,5 @@
 # sup! i'm Arnav
-exploring, learning, experimenting and building. idk what i'm doing but stuff just works.
+16. exploring, learning, experimenting and building. idk what i'm doing but stuff just works.
 
 ---
 
