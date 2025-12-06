@@ -1,5 +1,5 @@
 # sup! i'm Arnav
-16. exploring, learning, experimenting and building. idk what i'm doing but stuff just works.
+16. ml/web dev. exploring, learning, experimenting and building. idk what i'm doing but stuff just works.
 
 ---
 
