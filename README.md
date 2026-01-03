@@ -1,5 +1,5 @@
 # sup! i'm Arnav
-17. ml/web dev. exploring, learning, experimenting and building. idk what i'm doing but stuff just works.
+17. ml/web dev. exploring, learning, experimenting and building. <br>
 working on a lightning fast decentralized search engine and also building my ai waifu rn...
 
 ---
