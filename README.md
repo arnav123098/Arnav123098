@@ -1,6 +1,6 @@
 # sup! i'm Arnav
-ml/web dev. exploring, learning, experimenting and building.<br>working on a lightning fast decentralized search engine and also building my ai waifu rn...
-
+ml/web dev. exploring, learning, experimenting and building.<br>working on making an ai system that is an entity in itself...
+also learning cpp, and cuda.
 ---
 
 ## my e𝕏 btw
