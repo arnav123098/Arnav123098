@@ -1,5 +1,5 @@
 # sup! i'm Arnav
-ml/web dev. exploring, learning, experimenting and building.<br>working on making an ai system that is an entity in itself...
+ml/web dev. exploring, learning, experimenting.<br>currently building <a href='https://kei-chan.netlify.app'>this</a>
 ---
 
 ## my e𝕏 btw
